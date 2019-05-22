@@ -1,0 +1,7 @@
+name: FastSleep
+version: ${project.version}
+main: ru.vimeworld.fastsleep.FastSleep
+authors: [MagicWinner, VimeWorld]
+website: https://vimeworld.ru
+commands:
+  wakeup:
